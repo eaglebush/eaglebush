@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @eaglebush
-- 👀 I’m interested in creating libraries made with Golang and C# language
-- 🌱 I’m currently learning how to optimize Golang libraries
-- 💞️ I’m looking to collaborate with authors that can be patient in correcting my mistakes
+- 👀 I’m interested in creating libraries made with Go and C# language
+- 🌱 I’m currently learning how to optimize Go libraries
+- 💞️ I’m looking to collaborate with authors
 - 📫 How to reach me at mizmerize@gmail.com
 
 <!---
